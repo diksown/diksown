@@ -8,5 +8,5 @@
 📅 | At this moment, I'm practicing Competitive Programming and learning a thing or two about Linux and Open Source.
 
 🖥️ | Programming Languages:
-- C++
+- C/C++
 - Python
