@@ -5,7 +5,7 @@
 🤠 | I'm a young (19yo, to be specific) CS student that likes to learn cool and ｂｅａｕｔｉｆｕｌ stuff.
 
 
-📅 | At this moment, I'm practicing Competitive Programming and learning a thing or two about Linux and Open Source.
+📅 | At this moment, I'm practicing Competitive Programming and learning stuff about Web Developing.
 
 🖥️ | Programming Languages:
 - C/C++
