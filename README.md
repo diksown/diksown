@@ -1,10 +1,16 @@
-<details>
-  <summary align="center"><samp>yo I'm <a href="https://dikson.xyz">dikson</a></samp></summary>
-  <br>
-  <img src="https://i.pinimg.com/originals/0d/10/d2/0d10d2fe48a7956a4fdc9f7251132236.gif" alt="typing" align="left" valign="middle" height="200px"> 
-  I'm a young (19yo, to be specific) CS student that likes to learn cool and beautiful things.
-  
-  Currently, I'm learning a bit of front end and git/github.
-  
-  In my free time, I like to take part in programming and capture the flag competitions, customize my things and create stuff :) 
-</details>
+### Hi there — I'm [Dikson Santos](https://dikson.xyz) ✌️
+
+I'm a 19-year-old undergraduate at the University of São Paulo.
+
+Here you can give a look at some of my work 🧐
+
+##### Stuff I use
+- ⚡ *C++* for solving competitive programming problems 
+- 🐍 *Python* for quick scripts, smaller projects and solving cryptography challenges
+- 🌐 *HTML + CSS + JavaScript* for creating websites and showing some of my projects
+- 🧪 *+Git/Github, Linux, Math...*
+
+##### My hobbies include:
+- 🏆 Competitive Programming competitions
+- 🚩 Capture The Flag challenges (mainly cryptography 🔐)
+- 😎 Hanging out with my friends
