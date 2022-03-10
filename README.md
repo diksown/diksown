@@ -41,6 +41,6 @@
     😎 Hanging out with my friends
   </li>
   <li>
-    🎑 Making beautiful things
+    🎑 Creating beautiful things
   </li>
 </ul>
