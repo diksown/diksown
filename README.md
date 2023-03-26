@@ -3,7 +3,7 @@
 </h1>
 
 <p>
- 🚶 I'm a 21year-old undergraduate at the University of São Paulo.
+ 🚶 I'm a 21-year-old undergraduate at the University of São Paulo.
 </p>
 <p>
   Here you can give a look at some of my programming projects 😉
